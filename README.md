@@ -75,3 +75,7 @@ Through this project, I learned:
 - Verilog case statements
 - Arithmetic and logical operations in Verilog
 - Testbench creation and simulation analysis
+
+
+## Waveform
+![Waveform](alu_waveform.png)
